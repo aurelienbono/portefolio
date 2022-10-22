@@ -49,37 +49,37 @@ Analyse de données et quantitative, Analyse décisionnelle, Modélisation préd
 ### Expériences
 
 **[EureKa Geo](http://eurekageo.space) **  **Data Scientist**,  \
-	•	L’élaboration des cahiers des charges des solutions à développer
-	•	Le traitement, l’ analyse des données ainsi que le développement des algorithmes de prédictions décisionnelles dans les champs d’applications du géo spatial,
-	•	La conception, le développement et le déploiement des applications et solutions à valeur ajoutée à partir des résultats des données analysées 
-	•	Le maintien des Infrastructures des Données Spatiales 
-	•	La formation au grand public sur l’ ensemble des techniques et méthodes d’analyses automatisées, de développement des applications ainsi que le transfert des compétences aux utilisateurs des solutions et applications développées.
-	•	L’ accompagnement des groupes cibles sur les activités entrepreneuriales 
-	•	Mener des activités de sensibilisation sur les applications et les solutions développées
+L’élaboration des cahiers des charges des solutions à développer
+Le traitement, l’ analyse des données ainsi que le développement des algorithmes de prédictions décisionnelles dans les champs d’applications du géo spatial,
+La conception, le développement et le déploiement des applications et solutions à valeur ajoutée à partir des résultats des données analysées 
+Le maintien des Infrastructures des Données Spatiales 
+La formation au grand public sur l’ ensemble des techniques et méthodes d’analyses automatisées, de développement des applications ainsi que le transfert des compétences aux utilisateurs des solutions et applications développées.
+L’ accompagnement des groupes cibles sur les activités entrepreneuriales 
+Mener des activités de sensibilisation sur les applications et les solutions développées
 
 
-**[JABASPACE ](https://jabaspace.co) **Analyste Developpeur**  \
-
-    •	L’élaboration des cahiers des charges des solutions à développer
-    •	Developpement des solutions Tech pour les start-ups incubées 
-    •	Encadrement des jeunes eleves Ingenieurs dans la mise en place de leurs projets 
-	•	Participation a l'organisation de la deuxiement edition du  Ladies Business Context 2022
-
-**[Mana School](https://manaschool.net)  **Analyste Developpeur**    \
-
-    •	L’élaboration des cahiers des charges des solutions à développer
-    •	Developpement des solutions Tech pour les start-ups incubées 
-    •	Encadrement des jeunes eleves Ingenieurs dans la mise en place de leurs projets 
-	•	Participation a l'organisation de la deuxiement edition du  Ladies Business Context 2022
-
-**[1pub Agency ](https://1pub.net)  **Stagiare en Data Analyse**    \
+**[JABASPACE ](https://jabaspace.co) Analyste Developpeur**  \
 
 L’élaboration des cahiers des charges des solutions à développer
 Developpement des solutions Tech pour les start-ups incubées 
 Encadrement des jeunes eleves Ingenieurs dans la mise en place de leurs projets 
 Participation a l'organisation de la deuxiement edition du  Ladies Business Context 2022
 
-**[Mj Group Corporation ](https://mjgroupco.com)  ** Developpeur Fullstack**    \
+**[Mana School](https://manaschool.net)  Analyste Developpeur**    \
+
+L’élaboration des cahiers des charges des solutions à développer
+Developpement des solutions Tech pour les start-ups incubées 
+Encadrement des jeunes eleves Ingenieurs dans la mise en place de leurs projets 
+Participation a l'organisation de la deuxiement edition du  Ladies Business Context 2022
+
+**[1pub Agency ](https://1pub.net) Developpeur Fullstack**    \
+
+L’élaboration des cahiers des charges des solutions à développer
+Developpement des solutions Tech pour les start-ups incubées 
+Encadrement des jeunes eleves Ingenieurs dans la mise en place de leurs projets 
+Participation a l'organisation de la deuxiement edition du  Ladies Business Context 2022
+
+**[Mj Group Corporation ](https://mjgroupco.com) Developpeur Fullstack**    \
 
 Supervise le développement des applications mobiles ( [DEV INVEST ](https://) ,[QUEEN SMS](https://queensms.net) )
 Recherche et développement de nouvelles façons d’améliorer le processus de développement 
@@ -90,10 +90,6 @@ analyse et comprehension des besoins des clients
 Chef adjoint du projet de conception d’une base de donnée pour la gestion de la pharmacie 
 
 
-Supervise le développement des applications mobiles ( [DEV INVEST ](https://) ,[QUEEN SMS](https://queensms.net) )
-Recherche et développement de nouvelles façons d’améliorer le processus de développement 
-développement des solutions digital pour plusieurs clients 
-analyse et comprehension des besoins des clients 
 
 **[Stochastic First and Second Order Optimization Methods for Machine Learning](https://publications.polymtl.ca/5457/)** \
 **Sanae Lotfi** \

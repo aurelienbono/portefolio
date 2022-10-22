@@ -1,4 +1,4 @@
-I am a PhD student at the [Center for Data Science](https://cds.nyu.edu/) at NYU and a [DeepMind fellow](https://nyudatascience.medium.com/deepmind-fellow-profile-sanae-lotfi-9197c0c5fb94), advised by Professor [Andrew Gordon Wilson](https://cims.nyu.edu/~andrewgw/).  
+Je suis Software Engineer | Data scientist à[EureKa Geo](http://eurekageo.space), et diplômé en informatique  en  [Faculté des sciences de l'université de Douala](https://facsciencesunivdouala.cm/) et je suis également bénéficiaire de plusieurs certifications en ligne
 
 Ingénieur passionné en machine learning avec  1 an d'expérience dans la modélisation prédictive et l'exploration de données. Excité à mettre en œuvre des solutions d'apprentissage automatique statistique pour [EureKa Geo](http://eurekageo.space) . Chez  [EureKa Geo](http://eurekageo.space), mise en œuvre de modèles de prévision de la demande améliorant la précision des prévisions de 43 %.
 

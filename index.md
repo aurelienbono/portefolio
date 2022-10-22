@@ -113,7 +113,12 @@ Class Project for Inference and Representation, DS-GA 1005, Fall 2021
 ---
 ### Certifications
 
-**[Scholar Q&A: Sanae](https://www.deepmind.com/scholarships/scholars/sanae)**, DeepMind, 2021 
+**[SQL](https://aurelienbono.github.io/pdf/certif/3.pdf)**, 
+**[WEB SCRAPING WITH PYTHON](https://aurelienbono.github.io/pdf/certif/5.pdf)**,  
+**[DATA VIZ WITH MATPLOTLIB](https://aurelienbono.github.io/pdf/certif/4.pdf)**,  DeepMind, 2021 
+**[GUINNESS WORLD RECORD IA ](https://aurelienbono.github.io/pdf/certif/3.pdf)**,  DeepMind, 2021 
+DeepMind, 2021 
+ DeepMind, 2021 
 <!-- <a href="https://sanaelotfi.github.io/pdf/cv/cv_sanae_lotfi_0729.pdf" target="_blank">CV</a>, -->
 
 **[DeepMind Fellow Profile: Sanae Lotfi](https://nyudatascience.medium.com/deepmind-fellow-profile-sanae-lotfi-9197c0c5fb94)**, NYU Center for Data Science, 2020

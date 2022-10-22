@@ -104,4 +104,4 @@ il s'agit de l'ensemble de donnée qui décrit des véhicules , l'année de vent
 **[SQL](https://aurelienbono.github.io/pdf/certif/3.pdf)**, 
 **[WEB SCRAPING WITH PYTHON](https://aurelienbono.github.io/pdf/certif/5.pdf)**
 **[DATA VIZ WITH MATPLOTLIB](https://aurelienbono.github.io/pdf/certif/4.pdf)**
-**[GUINNESS WORLD RECORD IA ](https://aurelienbono.github.io/pdf/certif/3.pdf)**,  
+**[GUINNESS WORLD RECORD IA ](https://aurelienbono.github.io/pdf/certif/3.pdf)**

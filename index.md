@@ -64,31 +64,27 @@ Analyse de données et quantitative, Analyse décisionnelle, Modélisation préd
     •	Developpement des solutions Tech pour les start-ups incubées 
     •	Encadrement des jeunes eleves Ingenieurs dans la mise en place de leurs projets 
 	•	Participation a l'organisation de la deuxiement edition du  Ladies Business Context 2022
- 	
-**[Evaluating Approximate Inference in Bayesian Deep Learning](https://proceedings.mlr.press/v176/wilson22a/wilson22a.pdf)** \
-Andrew Gordon Wilson, **Sanae Lotfi**, Sharad Vikram, Matthew D. Hoffman, Yarin Gal, Yingzhen Li, Melanie F. Pradier, Andrew Foong, Sebastian Farquhar, Pavel Izmailov \
-_NeurIPS Competition and Demonstration Track, Proceedings of Machine Learning Research (PMLR), 2022_ \
-[[plmr](https://proceedings.mlr.press/v176/wilson22a/wilson22a.pdf), [code](https://github.com/izmailovpavel/neurips_bdl_starter_kit), [website](https://izmailovpavel.github.io/neurips_bdl_competition/)]
 
+**[Mana School](https://manaschool.net)  **Analyste Developpeur**    \
 
-**[Dangers of Bayesian Model Averaging under Covariate Shift](https://arxiv.org/abs/2106.11905)** \
-Pavel Izmailov, Patrick Nicholson, **Sanae Lotfi**, Andrew Gordon Wilson \
-_Neural Information Processing Systems (NeurIPS), 2021_ \
-[[arxiv](https://arxiv.org/abs/2106.11905), [code](https://github.com/izmailovpavel/bnn_covariate_shift), <a href="https://sanaelotfi.github.io/pdf/posters/BMA_Dangers_Poster_NeurIPS_2021.pdf" target="_blank">poster</a>]
+    •	L’élaboration des cahiers des charges des solutions à développer
+    •	Developpement des solutions Tech pour les start-ups incubées 
+    •	Encadrement des jeunes eleves Ingenieurs dans la mise en place de leurs projets 
+	•	Participation a l'organisation de la deuxiement edition du  Ladies Business Context 2022
 
-**[Loss Surface Simplexes for Mode Connecting Volumes and Fast Ensembling](https://arxiv.org/abs/2102.13042)** \
-Gregory W. Benton, Wesley J. Maddox, **Sanae Lotfi**, Andrew Gordon Wilson \
-_International Conference on Machine Learning (ICML), 2021_ \
-**Spotlight presentation** \
-[[arxiv](https://arxiv.org/abs/2102.13042), [code](https://github.com/g-benton/loss-surface-simplexes), <a href="https://sanaelotfi.github.io/pdf/slides/conference_presentations/Loss_Surface_Simplexes_ICML_2021.pdf" target="_blank">slides</a>]
+**[1pub Agency ](https://1pub.net)  **Stagiare en Data Analyse**    \
 
-**[Stochastic Damped L-BFGS with Controlled Norm of the Hessian Approximation](https://arxiv.org/abs/2012.05783)**\
-**Sanae Lotfi**, Tiphaine B. de Ruisselet, Dominique Orban, Andrea Lodi \
-_SIAM Conference on Optimization, 2021_ \
-**Oral presentation** \
-_NeurIPS Optimization for Machine Learning Workshop, 2020_ \
-**Spotlight presentation** \
-[[arxiv](https://arxiv.org/abs/2012.05783)]
+    •	L’élaboration des cahiers des charges des solutions à développer
+    •	Developpement des solutions Tech pour les start-ups incubées 
+    •	Encadrement des jeunes eleves Ingenieurs dans la mise en place de leurs projets 
+	•	Participation a l'organisation de la deuxiement edition du  Ladies Business Context 2022
+
+**[Mj Group Corporation ](https://mjgroupco.com)  ** Developpeur Fullstack**    \
+
+    •	L’élaboration des cahiers des charges des solutions à développer
+    •	Developpement des solutions Tech pour les start-ups incubées 
+    •	Encadrement des jeunes eleves Ingenieurs dans la mise en place de leurs projets 
+	•	Participation a l'organisation de la deuxiement edition du  Ladies Business Context 2022        
 
 **[Stochastic First and Second Order Optimization Methods for Machine Learning](https://publications.polymtl.ca/5457/)** \
 **Sanae Lotfi** \

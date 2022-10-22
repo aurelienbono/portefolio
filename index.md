@@ -26,13 +26,13 @@ Vous pouvez me contacter au bonombelleaurelien@outlook.com
 - Algorithmes de personnalisation optimisés pour les applications avec plus de 2 millions d'utilisateurs.
 - Application de l'exploration de données au problème du geospatial 
 - Ventes de produits prévues à moins de 2 % en appliquant un modèle de régression logistique.
-PAC-Bayes Compression Bounds So Tight That They Can Explain Generalization \ 
+PAC-Bayes Compression Bounds So Tight That They Can Explain Generalization 
 
 
 ---
 
 ### Mes compétences & hobbies 
-- Machine Learning & Data Science (Data science , Scikit-learn, pandas , numpy , matplotlit , seaborn , plotly , streamlit, nltk)
+- Machine Learning  (Data science , Scikit-learn, pandas , numpy , matplotlit , seaborn , plotly , streamlit, nltk)
 - Programmation ( python , C++ , Dart/Flutter, Git, html ,css , php )
 - Logiciels Systèmes ( Windows  , OS X  ,  Linux )
 - Cloud Computing ( AWS , AZURE)
@@ -41,22 +41,30 @@ PAC-Bayes Compression Bounds So Tight That They Can Explain Generalization \
 
 ### Skills
 Analyse de données et quantitative, Analyse décisionnelle, Modélisation prédictive, Personnalisation basée sur les données, Algorithmes d'apprentissage automatique, Compétences organisationnelles et analytiques, Compréhension de la documentation technique, Communication et présentation, Résolution de problèmes
+
+
+
 ---
 
-**[Bayesian Model Selection, the Marginal Likelihood, and Generalization](https://arxiv.org/abs/2202.11678)** \
-**Sanae Lotfi**, Pavel Izmailov, Gregory Benton, Micah Goldblum, Andrew Gordon Wilson \
-_International Conference on Machine Learning (ICML), 2022_ \
-**Long oral presentation, top 2% submissions** \
-**Outstanding Paper Award** \
-[[arxiv](https://arxiv.org/pdf/2202.11678.pdf), [code](https://github.com/Sanaelotfi/Bayesian_model_comparison), <a href="https://sanaelotfi.github.io/pdf/posters/LML_Poster_ICML_2022.pdf" target="_blank">poster</a>, [talk](https://slideslive.com/38983095/bayesian-model-selection-the-marginal-likelihood-and-generalization), <a href="https://sanaelotfi.github.io/pdf/slides/conference_presentations/LML_Sanae_Lotfi_ICML_2022.pdf" target="_blank">slides</a>]
+### Expériences
+
+**[EureKa Geo](http://eurekageo.space) **  **Data Scientist**,  \
+	•	L’élaboration des cahiers des charges des solutions à développer
+	•	Le traitement, l’ analyse des données ainsi que le développement des algorithmes de prédictions décisionnelles dans les champs d’applications du géo spatial,
+	•	La conception, le développement et le déploiement des applications et solutions à valeur ajoutée à partir des résultats des données analysées 
+	•	Le maintien des Infrastructures des Données Spatiales 
+	•	La formation au grand public sur l’ ensemble des techniques et méthodes d’analyses automatisées, de développement des applications ainsi que le transfert des compétences aux utilisateurs des solutions et applications développées.
+	•	L’ accompagnement des groupes cibles sur les activités entrepreneuriales 
+	•	Mener des activités de sensibilisation sur les applications et les solutions développées
 
 
-**[Adaptive First-and Second-Order Algorithms for Large-Scale Machine Learning](https://arxiv.org/abs/2111.14761)** \
-**Sanae Lotfi**, Tiphaine Bonniot de Ruisselet, Dominique Orban, Andrea Lodi \
-_Annual Conference on Machine Learning, Optimization, and Data Science (LOD), 2022_ \
-**Oral presentation**\
-[[arxiv](https://arxiv.org/pdf/2111.14761.pdf)]
+**[JABASPACE ](https://jabaspace.co) **Analyste Developpeur**  \
 
+    •	L’élaboration des cahiers des charges des solutions à développer
+    •	Developpement des solutions Tech pour les start-ups incubées 
+    •	Encadrement des jeunes eleves Ingenieurs dans la mise en place de leurs projets 
+	•	Participation a l'organisation de la deuxiement edition du  Ladies Business Context 2022
+ 	
 **[Evaluating Approximate Inference in Bayesian Deep Learning](https://proceedings.mlr.press/v176/wilson22a/wilson22a.pdf)** \
 Andrew Gordon Wilson, **Sanae Lotfi**, Sharad Vikram, Matthew D. Hoffman, Yarin Gal, Yingzhen Li, Melanie F. Pradier, Andrew Foong, Sebastian Farquhar, Pavel Izmailov \
 _NeurIPS Competition and Demonstration Track, Proceedings of Machine Learning Research (PMLR), 2022_ \

@@ -40,8 +40,7 @@ PAC-Bayes Compression Bounds So Tight That They Can Explain Generalization \
 -  Management (Travail en équipe & gestion, Gestion de projet informatique , Management de la Qualité)
 
 ### Skills
-Data and Quantitative Analysis , Decision Analytics, Predictive Modeling , Data-Driven Personalizatio,Machine Learning Algorithms , Organizational and analytical skills , Understanding of , technical documentation , Communication and presentation , Problem-solving
-
+Analyse de données et quantitative, Analyse décisionnelle, Modélisation prédictive, Personnalisation basée sur les données, Algorithmes d'apprentissage automatique, Compétences organisationnelles et analytiques, Compréhension de la documentation technique, Communication et présentation, Résolution de problèmes
 ---
 
 **[Bayesian Model Selection, the Marginal Likelihood, and Generalization](https://arxiv.org/abs/2202.11678)** \

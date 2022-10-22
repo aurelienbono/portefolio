@@ -13,7 +13,7 @@ Ingenier Logiciel &  Scientifique des données . J'ai eu la chance d'y travaille
 ---
 Vous pouvez me contacter au bonombelleaurelien@outlook.com
  
-<a href="https://sanaelotfi.github.io/pdf/cv/CV_Sanae_lotfi_Oct_2022.pdf" target="_blank">CV</a>,  [LinkedIn](https://www.linkedin.com/in/aurelien-mbelle-bono-1ba339227/), [Twitter](https://twitter.com/Aurelien_Mbelle), [Github](https://github.com/aurelienbono)
+<a href="https://sanaelotfi.github.io/pdf/cv/cv_sanae_lotfi_0729.pdf" target="_blank">CV</a>,  [LinkedIn](https://www.linkedin.com/in/aurelien-mbelle-bono-1ba339227/), [Twitter](https://twitter.com/Aurelien_Mbelle), [Github](https://github.com/aurelienbono)
 <!-- [Google Scholar](https://scholar.google.com/citations?user=0GyjMX4AAAAJ&authuser=2) -->
 
 

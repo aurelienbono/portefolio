@@ -1,7 +1,7 @@
 I am a PhD student at the [Center for Data Science](https://cds.nyu.edu/) at NYU and a [DeepMind fellow](https://nyudatascience.medium.com/deepmind-fellow-profile-sanae-lotfi-9197c0c5fb94), advised by Professor [Andrew Gordon Wilson](https://cims.nyu.edu/~andrewgw/).  
 
-I am currently interested in designing robust models that can generalize well in-distribution and out-of-distribution. I also work on the closely related question of understanding and quantifying the generalization properties of deep neural networks. Our latest work on [Bayesian model selection](https://arxiv.org/abs/2202.11678) was recognized with an **Outstanding Paper Award at ICML 2022**! 
-
+Ingénieur passionné en machine learning avec plus de 2 ans d'expérience dans la modélisation prédictive et l'exploration de données. Excité à mettre en œuvre des solutions d'apprentissage automatique statistique pour [EureKa Geo](http://eurekageo.space) . Chez  [EureKa Geo](http://eurekageo.space), mise en œuvre de modèles de prévision de la demande améliorant la précision des prévisions de 43 %.
+ 
 Prior to NYU, I obtained a master’s degree in applied mathematics from [Polytechnique Montreal](https://www.polymtl.ca/). I was fortunate to work there with Professors [Andrea Lodi](https://tech.cornell.edu/people/andrea-lodi/) and [Dominique Orban](https://dpo.github.io/) to design stochastic first- and second-order algorithms with compelling theoretical and empirical properties for machine learning and large-scale optimization. I received the **[Best Master's Thesis Award in Applied Mathematics and Industrial Engineering](https://www.gerad.ca/en/posts/903)** for this work. I also hold a master's degree in general engineering and applied mathematics from [CentraleSupélec](https://www.centralesupelec.fr/en).
 
 - Starting October 2022, I will join the Fundamental AI Research (FAIR) group at Meta AI to work with [Brandon Amos](http://bamos.github.io/) as a Visiting Researcher.

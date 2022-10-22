@@ -11,7 +11,7 @@ Ingenier Logiciel &  Scientifique des données . J'ai eu la chance d'y travaille
 - En Juin 2022, j'ai eu la chance de travailler avec [Frederic TCHEULEU](https://www.linkedin.com/in/frederic-tcheuleu-a9309611/)  Co Founder and Solutions Architect at JabaSpace , [Marius NGADOM T](https://www.linkedin.com/in/ngatcharius/) Software Engeener | Data Analyst  , [MEKONDANE ADA Florence Carine](https://www.linkedin.com/in/mekondane-ada-florence-carine/) Conseil en image👩🏿‍🎓, Image GRH🌺 et plein d'autre personne a l'organisation du  [Ladies Business Contest Edition 2](https://jabaspace.co/ladies-business-contest-une-1ere-edition/)   
 
 ---
-You can contact me at bonombelleaurelien@outlook.com
+Vous pouvez me contacter au bonombelleaurelien@outlook.com
  
 <a href="https://sanaelotfi.github.io/pdf/cv/CV_Sanae_lotfi_Oct_2022.pdf" target="_blank">CV</a>, [Google Scholar](https://scholar.google.com/citations?user=0GyjMX4AAAAJ&authuser=2), [LinkedIn](https://www.linkedin.com/in/sanae-lotfi-636825127), [Twitter](https://twitter.com/lotfisanae), [Github](https://github.com/Sanaelotfi)
 <!-- Remove above link if you don't want to attibute -->

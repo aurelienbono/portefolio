@@ -28,9 +28,21 @@ Vous pouvez me contacter au bonombelleaurelien@outlook.com
 - Ventes de produits prévues à moins de 2 % en appliquant un modèle de régression logistique.
 PAC-Bayes Compression Bounds So Tight That They Can Explain Generalization \ 
 
-**Sanae Lotfi<sup>\*</sup>**, Sanyam Kapoor<sup>\*</sup>, Marc Anton Finzi<sup>\*</sup>, Andres Potapczynski <sup>\*</sup>, Micah Goldblum, Andrew Gordon Wilson \
-_Neural Information Processing Systems (NeurIPS), 2022_
 
+---
+
+### Mes compétences & hobbies 
+- Machine Learning & Data Science (Data science , Scikit-learn, pandas , numpy , matplotlit , seaborn , plotly , streamlit, nltk)
+- Programmation ( python , C++ , Dart/Flutter, Git, html ,css , php )
+- Logiciels Systèmes ( Windows  , OS X  ,  Linux )
+- Cloud Computing ( AWS , AZURE)
+- Communication ( Francais , Anglais )
+-  Management (Travail en équipe & gestion, Gestion de projet informatique , Management de la Qualité)
+
+### Skills
+Data and Quantitative Analysis , Decision Analytics, Predictive Modeling , Data-Driven Personalizatio,Machine Learning Algorithms , Organizational and analytical skills , Understanding of , technical documentation , Communication and presentation , Problem-solving
+
+---
 
 **[Bayesian Model Selection, the Marginal Likelihood, and Generalization](https://arxiv.org/abs/2202.11678)** \
 **Sanae Lotfi**, Pavel Izmailov, Gregory Benton, Micah Goldblum, Andrew Gordon Wilson \

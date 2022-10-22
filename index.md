@@ -13,7 +13,7 @@ Ingenier Logiciel &  Scientifique des données . J'ai eu la chance d'y travaille
 ---
 Vous pouvez me contacter au bonombelleaurelien@outlook.com
  
-<a href="https://sanaelotfi.github.io/pdf/cv/cv_sanae_lotfi_0729.pdf" target="_blank">CV</a>,  [LinkedIn](https://www.linkedin.com/in/aurelien-mbelle-bono-1ba339227/), [Twitter](https://twitter.com/Aurelien_Mbelle), [Github](https://github.com/aurelienbono)
+<a href="https://aurelienbono.github.io/portefolio/pdf/cv/mycv.pdf" target="_blank">CV</a>,  [LinkedIn](https://www.linkedin.com/in/aurelien-mbelle-bono-1ba339227/), [Twitter](https://twitter.com/Aurelien_Mbelle), [Github](https://github.com/aurelienbono)
 <!-- [Google Scholar](https://scholar.google.com/citations?user=0GyjMX4AAAAJ&authuser=2) -->
 
 
@@ -101,7 +101,7 @@ il s'agit de l'ensemble de donnée qui décrit des véhicules , l'année de vent
 ---
 ### Certifications
 
-**[SQL](https://aurelienbono.github.io/pdf/certif/3.pdf)**, 
-**[WEB SCRAPING WITH PYTHON](https://aurelienbono.github.io/pdf/certif/5.pdf)**
-**[DATA VIZ WITH MATPLOTLIB](https://aurelienbono.github.io/pdf/certif/4.pdf)**
-**[GUINNESS WORLD RECORD IA ](https://aurelienbono.github.io/pdf/certif/3.pdf)**
+**[SQL](https://aurelienbono.github.io/portefolio/pdf/certif/3.pdf)** <br>
+**[WEB SCRAPING WITH PYTHON](https://aurelienbono.github.io/portefolio/pdf/certif/5.pdf)**<br>
+**[DATA VIZ WITH MATPLOTLIB](https://aurelienbono.github.io/portefolio/certif/4.pdf)**<br>
+**[GUINNESS WORLD RECORD IA ](https://aurelienbono.github.io/portefolio/pdf/certif/3.pdf)**<br>

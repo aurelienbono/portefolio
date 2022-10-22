@@ -74,17 +74,26 @@ Analyse de données et quantitative, Analyse décisionnelle, Modélisation préd
 
 **[1pub Agency ](https://1pub.net)  **Stagiare en Data Analyse**    \
 
-    •	L’élaboration des cahiers des charges des solutions à développer
-    •	Developpement des solutions Tech pour les start-ups incubées 
-    •	Encadrement des jeunes eleves Ingenieurs dans la mise en place de leurs projets 
-	•	Participation a l'organisation de la deuxiement edition du  Ladies Business Context 2022
+L’élaboration des cahiers des charges des solutions à développer
+Developpement des solutions Tech pour les start-ups incubées 
+Encadrement des jeunes eleves Ingenieurs dans la mise en place de leurs projets 
+Participation a l'organisation de la deuxiement edition du  Ladies Business Context 2022
 
 **[Mj Group Corporation ](https://mjgroupco.com)  ** Developpeur Fullstack**    \
 
-    •	L’élaboration des cahiers des charges des solutions à développer
-    •	Developpement des solutions Tech pour les start-ups incubées 
-    •	Encadrement des jeunes eleves Ingenieurs dans la mise en place de leurs projets 
-	•	Participation a l'organisation de la deuxiement edition du  Ladies Business Context 2022        
+Supervise le développement des applications mobiles ( [DEV INVEST ](https://) ,[QUEEN SMS](https://queensms.net) )
+Recherche et développement de nouvelles façons d’améliorer le processus de développement 
+développement des solutions digital pour plusieurs clients 
+analyse et comprehension des besoins des clients 
+
+**PHARMACIE PK9 NUMBER ONE**    \
+Chef adjoint du projet de conception d’une base de donnée pour la gestion de la pharmacie 
+
+
+Supervise le développement des applications mobiles ( [DEV INVEST ](https://) ,[QUEEN SMS](https://queensms.net) )
+Recherche et développement de nouvelles façons d’améliorer le processus de développement 
+développement des solutions digital pour plusieurs clients 
+analyse et comprehension des besoins des clients 
 
 **[Stochastic First and Second Order Optimization Methods for Machine Learning](https://publications.polymtl.ca/5457/)** \
 **Sanae Lotfi** \
@@ -106,9 +115,10 @@ Sanae Lotfi, Taro Makino, Lily Zhang \
 Class Project for Inference and Representation, DS-GA 1005, Fall 2021
 
 ---
-### Selected Media Coverage
+### Certifications
 
 **[Scholar Q&A: Sanae](https://www.deepmind.com/scholarships/scholars/sanae)**, DeepMind, 2021 
+<!-- <a href="https://sanaelotfi.github.io/pdf/cv/cv_sanae_lotfi_0729.pdf" target="_blank">CV</a>, -->
 
 **[DeepMind Fellow Profile: Sanae Lotfi](https://nyudatascience.medium.com/deepmind-fellow-profile-sanae-lotfi-9197c0c5fb94)**, NYU Center for Data Science, 2020
 

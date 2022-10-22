@@ -8,7 +8,7 @@ Ingenier Logiciel &  Scientifique des données . J'ai eu la chance d'y travaille
 
 
 - À partir d'octobre 2022, je rejoindrai le groupe du New Space Au Cameroun  pour travailler avec ces entreprise pour la recherche et le developpement des solutions autour de l'Intelligence Numerique et du Geospatial.
-- En Juin 2022, j'ai eu la chance de travailler avec [Frederic TCHEULEU](https://www.linkedin.com/in/frederic-tcheuleu-a9309611/)  Co Founder and Solutions Architect at JabaSpace , [Marius NGADOM T](https://www.linkedin.com/in/ngatcharius/) Software Engeener | Data Analyst  , [MEKONDANE ADA Florence Carine](https://www.linkedin.com/in/mekondane-ada-florence-carine/) Conseil en image👩🏿‍🎓, Image GRH🌺 et plein d'autre personne a l'organisation du  [Ladies Business Contest Edition 2](https://jabaspace.co/ladies-business-contest-une-1ere-edition/)   
+- En Juin 2022, j'ai eu la chance de travailler avec [Frederic TCHEULEU](https://www.linkedin.com/in/frederic-tcheuleu-a9309611/)  Co Founder and Solutions Architect at JabaSpace , [Marius NGADOM T](https://www.linkedin.com/in/ngatcharius/) Software Engeener | Data Analyst  , [MEKONDANE ADA Florence Carine](https://www.linkedin.com/in/mekondane-ada-florence-carine/) Conseil en image👩🏿‍🎓, Image GRH🌺 et plein d'autre personnes  a l'organisation du  [Ladies Business Contest Edition 2](https://jabaspace.co/ladies-business-contest-une-1ere-edition/)   
 
 ---
 Vous pouvez me contacter au bonombelleaurelien@outlook.com
@@ -18,9 +18,16 @@ Vous pouvez me contacter au bonombelleaurelien@outlook.com
 
 
 ---
-### Publications 
+### Qualifications et responsabilités clés
 
-PAC-Bayes Compression Bounds So Tight That They Can Explain Generalization \
+
+- Conception et développement de systèmes d'analyse pour extraire des informations à partir de données à grande échelle.
+- Développement d'un algorithme de segmentation client en R menant à une augmentation de 22 % de la part de marché.
+- Algorithmes de personnalisation optimisés pour les applications avec plus de 2 millions d'utilisateurs.
+- Application de l'exploration de données au problème du geospatial 
+- Ventes de produits prévues à moins de 2 % en appliquant un modèle de régression logistique.
+PAC-Bayes Compression Bounds So Tight That They Can Explain Generalization \ 
+
 **Sanae Lotfi<sup>\*</sup>**, Sanyam Kapoor<sup>\*</sup>, Marc Anton Finzi<sup>\*</sup>, Andres Potapczynski <sup>\*</sup>, Micah Goldblum, Andrew Gordon Wilson \
 _Neural Information Processing Systems (NeurIPS), 2022_
 

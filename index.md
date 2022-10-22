@@ -89,37 +89,19 @@ analyse et comprehension des besoins des clients
 **PHARMACIE PK9 NUMBER ONE**   
 Chef adjoint du projet de conception d’une base de donnée pour la gestion de la pharmacie 
 
-
-
-**[Stochastic First and Second Order Optimization Methods for Machine Learning](https://publications.polymtl.ca/5457/)** \
-**Sanae Lotfi** \
-_Master's Thesis, 2020_ \
-**Best Thesis Award in Applied Mathematics at Polytechnique Montreal** \
-Polytechnique Montreal
-
-<sup>*</sup>: Equal first authorship. 
-
 ---
-### Surveys
+### Projets Personnel 
 
-**<a href="https://sanaelotfi.github.io/pdf/project_reports/pac_bayes_bounds_survey.pdf" target="_blank">Understanding the Generalization of Deep Neural Networks through PAC-Bayes bounds </a>**\
-Andres Potapczynski, Sanae Lotfi, Anthony Chen, Chris Ick \
-Class Project for the Mathematics of Deep Learning, CS-GA 3033, Spring 2022
+**[KAMTE](https://github.com/aurelienbono/Kamte)** (Encore en Developpement et Open source ) <br> 
+Application mobile(IOS&ANDROID) de gestion de finance quotidienne
 
-**<a href="https://sanaelotfi.github.io/pdf/project_reports/causal_representation_learning_survey.pdf" target="_blank">Causal Representation Learning </a>**\
-Sanae Lotfi, Taro Makino, Lily Zhang \
-Class Project for Inference and Representation, DS-GA 1005, Fall 2021
+**[ANALYSE D'UN JEU DE DONNEE DES VEHICULES](https://github.com/aurelienbono/Car_analyse/blob/develop/main.ipynb)** (Open source ) <br> 
+il s'agit de l'ensemble de donnée qui décrit des véhicules , l'année de vente , leurs types de consomations , transmission , prix de vente et l'actuelle prix.
 
 ---
 ### Certifications
 
 **[SQL](https://aurelienbono.github.io/pdf/certif/3.pdf)**, 
-**[WEB SCRAPING WITH PYTHON](https://aurelienbono.github.io/pdf/certif/5.pdf)**,  
-**[DATA VIZ WITH MATPLOTLIB](https://aurelienbono.github.io/pdf/certif/4.pdf)**,  DeepMind, 2021 
-**[GUINNESS WORLD RECORD IA ](https://aurelienbono.github.io/pdf/certif/3.pdf)**,  DeepMind, 2021 
-DeepMind, 2021 
- DeepMind, 2021 
-<!-- <a href="https://sanaelotfi.github.io/pdf/cv/cv_sanae_lotfi_0729.pdf" target="_blank">CV</a>, -->
-
-**[DeepMind Fellow Profile: Sanae Lotfi](https://nyudatascience.medium.com/deepmind-fellow-profile-sanae-lotfi-9197c0c5fb94)**, NYU Center for Data Science, 2020
-
+**[WEB SCRAPING WITH PYTHON](https://aurelienbono.github.io/pdf/certif/5.pdf)**
+**[DATA VIZ WITH MATPLOTLIB](https://aurelienbono.github.io/pdf/certif/4.pdf)**
+**[GUINNESS WORLD RECORD IA ](https://aurelienbono.github.io/pdf/certif/3.pdf)**,  

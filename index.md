@@ -4,11 +4,11 @@ Ingénieur passionné en machine learning avec  1 an d'expérience dans la modé
 
 Je m'intéresse actuellement à la conception de modèles robustes qui peuvent bien généraliser en distribution et hors distribution. Je travaille également sur la question étroitement liée au prediction des données geospatial .
 
-Ingenier Logiciel &  Scientifique des données . J'ai eu la chance d'y travailler avec les start-up dans la transformation digital  [Mj Group Corporation ](https://mjgroupco.com) , [Mana School](https://manaschool.net)   , [Op Media Plus](http://opmediaplus.com) , [1pub Agency ](https://1pub.net)  ,   [Simplitill](https://simplitill.com)   , des Incubateurs  comme [JABASPACE ](https://jabaspace.co)  , et actuellement je travail dans le domaine du geospatial avec  [EureKa Geo](http://eurekageo.space)  pour concevoir et developpeur des solutions digital a partir des algorithmes   d'apprentissage automatique et pour l'optimisation à grande échelle. J'ai reçu le deuxieme prix  avec mon equipe NYNE(Une solution de diagnostique de paludisme grace au Deep Learning ) au Hacthon D'intelligence Artificiel au douala #StartUpWeekendIA . Je suis  titulaire d'un master 1 en ingénierie informatique.
+Ingenier Logiciel &  Scientifique des données . J'ai eu la chance d'y travailler avec les start-up dans la transformation digital  [Mj Group Corporation ](https://mjgroupco.com) , [Mana School](https://manaschool.net)   , [Op Media Plus](http://opmediaplus.com) , [1pub Agency ](https://1pub.net)  ,   [Simplitill](https://simplitill.com)   , des Incubateurs  comme [JABASPACE ](https://jabaspace.co)  , et actuellement je travail dans le domaine du geospatial avec  [EureKa Geo](http://eurekageo.space)  pour concevoir et developpeur des solutions digital a partir des algorithmes   d'apprentissage automatique et pour l'optimisation à grande échelle. J'ai reçu le deuxieme prix  avec mon equipe NYNE(Une solution de diagnostique de paludisme grace au Deep Learning ) au Hackathon D'intelligence Artificiel au douala #StartUpWeekendIA . Je suis  titulaire d'un master 1 en ingénierie informatique.
 
 
-- À partir d'octobre 2022, je rejoindrai le groupe du New Space Au Cameroun  pour travailler avec ces entreprise pour la recherche et le developpement des solutions autour de l'Intelligence Numerique et du Geospatial.
-- En Juin 2022, j'ai eu la chance de travailler avec [Frederic TCHEULEU](https://www.linkedin.com/in/frederic-tcheuleu-a9309611/)  Co Founder and Solutions Architect at JabaSpace , [Marius NGADOM T](https://www.linkedin.com/in/ngatcharius/) Software Engeener | Data Analyst  , [MEKONDANE ADA Florence Carine](https://www.linkedin.com/in/mekondane-ada-florence-carine/) Conseil en image👩🏿‍🎓, Image GRH🌺 et plein d'autre personnes  a l'organisation du  [Ladies Business Contest Edition 2](https://jabaspace.co/ladies-business-contest-une-1ere-edition/)   
+- À partir d'octobre 2022, je rejoindrai le groupe du New Space Au Cameroun  pour travailler avec ces entreprises pour la recherche et le developpement des solutions autour de l'Intelligence Numerique et du Geospatial.
+- En Juin 2022, j'ai eu la chance de travailler avec [Frederic TCHEULEU](https://www.linkedin.com/in/frederic-tcheuleu-a9309611/)  Co Founder and Solutions Architect at JabaSpace , [Marius NGADOM T](https://www.linkedin.com/in/ngatcharius/) Software Engineer | Data Analyst  , [MEKONDANE ADA Florence Carine](https://www.linkedin.com/in/mekondane-ada-florence-carine/) Conseil en image👩🏿‍🎓, Image GRH🌺 et plein d'autre personnes  a l'organisation du  [Ladies Business Contest Edition 2](https://jabaspace.co/ladies-business-contest-une-1ere-edition/)   
 
 ---
 Vous pouvez me contacter au bonombelleaurelien@outlook.com
@@ -22,8 +22,8 @@ Vous pouvez me contacter au bonombelleaurelien@outlook.com
 
 
 - Conception et développement de systèmes d'analyse pour extraire des informations à partir de données à grande échelle.
-- Développement d'un algorithme de segmentation client en R menant à une augmentation de 22 % de la part de marché.
-- Algorithmes de personnalisation optimisés pour les applications avec plus de 2 millions d'utilisateurs.
+- Développement d'un algorithme de segmentation client en Python menant à une augmentation de 22 % de la part de marché.
+- Algorithmes de personnalisation optimisés pour les applications avec plus de 2 milles d'utilisateurs.
 - Application de l'exploration de données au problème du geospatial 
 - Ventes de produits prévues à moins de 2 % en appliquant un modèle de régression logistique.
 PAC-Bayes Compression Bounds So Tight That They Can Explain Generalization 
@@ -48,7 +48,7 @@ Analyse de données et quantitative, Analyse décisionnelle, Modélisation préd
 
 ### Expériences
 
-**[EureKa Geo](http://eurekageo.space) **  **Data Scientist**
+**[EureKa Geo](http://eurekageo.space)      Data Scientist**
 L’élaboration des cahiers des charges des solutions à développer
 Le traitement, l’ analyse des données ainsi que le développement des algorithmes de prédictions décisionnelles dans les champs d’applications du géo spatial,
 La conception, le développement et le déploiement des applications et solutions à valeur ajoutée à partir des résultats des données analysées 
@@ -58,28 +58,24 @@ L’ accompagnement des groupes cibles sur les activités entrepreneuriales
 Mener des activités de sensibilisation sur les applications et les solutions développées
 
 
-**[JABASPACE ](https://jabaspace.co) Analyste Developpeur**  
+**[JABASPACE ](https://jabaspace.co)   Analyste Developpeur**  
 
-L’élaboration des cahiers des charges des solutions à développer
-Developpement des solutions Tech pour les start-ups incubées 
-Encadrement des jeunes eleves Ingenieurs dans la mise en place de leurs projets 
+L’élaboration des cahiers des charges des solutions à développer, 
+Developpement des solutions Tech pour les start-ups incubées , 
+Encadrement des jeunes eleves Ingenieurs dans la mise en place de leurs projets, 
 Participation a l'organisation de la deuxiement edition du  Ladies Business Context 2022
 
-**[Mana School](https://manaschool.net)  Analyste Developpeur**    
+**[Mana School](https://manaschool.net)    Analyste Developpeur**    
 
-L’élaboration des cahiers des charges des solutions à développer
-Developpement des solutions Tech pour les start-ups incubées 
-Encadrement des jeunes eleves Ingenieurs dans la mise en place de leurs projets 
-Participation a l'organisation de la deuxiement edition du  Ladies Business Context 2022
+Developpement des programmes pour integrer a la plateforme manaschool 
+qui permet de gerer le Systeme d'information d'un etablissement , 
+creation des dashboard pour permettre au corps enseignants , et aux administrateurs  de visualiser les données 
+**[1pub Agency ](https://1pub.net)    Developpeur Fullstack**    
 
-**[1pub Agency ](https://1pub.net) Developpeur Fullstack**    
-
-L’élaboration des cahiers des charges des solutions à développer
-Developpement des solutions Tech pour les start-ups incubées 
-Encadrement des jeunes eleves Ingenieurs dans la mise en place de leurs projets 
-Participation a l'organisation de la deuxiement edition du  Ladies Business Context 2022
-
-**[Mj Group Corporation ](https://mjgroupco.com) Developpeur Fullstack**    
+Recceuille des besoins des clients , 
+creation et adoption des produits en fonction du client 
+Developpement de MyOnePubApp pour permettre au client de [1pub Agency ](https://1pub.net) de suivre l'activité et le traffique sur leurs site web 
+**[Mj Group Corporation ](https://mjgroupco.com)   Developpeur Fullstack**    
 
 Supervise le développement des applications mobiles ( [DEV INVEST ](https://) ,[QUEEN SMS](https://queensms.net) )
 Recherche et développement de nouvelles façons d’améliorer le processus de développement 

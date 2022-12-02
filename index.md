@@ -96,8 +96,9 @@ il s'agit de l'ensemble de donnée qui décrit des véhicules , l'année de vent
 
 ---
 ### Certifications
-**[Source Code Version](https://aurelienbono.github.io/portefolio/pdf/certif/6.pdf)** <br>
+**[AWS MACHINE LEARNING](https://aurelienbono.github.io/portefolio/certif/7.pdf)**<br>
 **[SQL](https://aurelienbono.github.io/portefolio/pdf/certif/3.pdf)** <br>
+**[SOURCE CODE MANAGEMENT](https://aurelienbono.github.io/portefolio/pdf/certif/6.pdf)** <br>
 **[WEB SCRAPING WITH PYTHON](https://aurelienbono.github.io/portefolio/pdf/certif/5.pdf)**<br>
 **[DATA VIZ WITH MATPLOTLIB](https://aurelienbono.github.io/portefolio/certif/4.pdf)**<br>
 **[GUINNESS WORLD RECORD IA ](https://aurelienbono.github.io/portefolio/pdf/certif/1.pdf)**<br>
